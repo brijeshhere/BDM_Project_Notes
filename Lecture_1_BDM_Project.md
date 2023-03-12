@@ -24,6 +24,7 @@ Example: What are other impact supplier have on your business?
 **------Some discussion on "Organization Structure"--------**
 
 ### Pitch
+**-----An example describe that you should directly ask for data, try to understand the business and get to know owner-----**
 ### Q&A
 #### Question 1
 1. At the time of giving data they might have perception that they know their business and most of the thing that you will be presenting to them
